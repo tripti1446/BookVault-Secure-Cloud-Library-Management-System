@@ -1,0 +1,6 @@
+{
+  "name": "BookVault",
+  "description": "Secure Cloud Library Management System featuring dashboard metrics, book and member directory management, issue/return desks, fine tracking, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
